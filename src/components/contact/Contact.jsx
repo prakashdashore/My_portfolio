@@ -19,9 +19,6 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    console.log(form.current.email)
-   
-
     e.target.reset();
     alert("Massage sent to prakash !!");
   };
@@ -36,7 +33,7 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>prakashdashore999@gmail.com</h5>
-            <a href="mailto:prakashdashore999@gmail.com" target="_blank">
+            <a href="mailto:prakashdashore999@gmail.com" target="blank">
               Send a message
             </a>
           </article>

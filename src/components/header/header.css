@@ -82,3 +82,15 @@ header{
     
 }
 
+@media screen and (max-width: 350px) {
+    /* header{
+        height: 100vh;
+    } */
+    #name{
+        font-size: 1.8rem;
+    }
+    
+}
+
+
+

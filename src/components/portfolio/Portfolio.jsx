@@ -14,44 +14,44 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Notes Taking Web App",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/Nots_keeping_webapp_NEXT-JS",
+    demo: "https://nots-keeping-webapp-next-js.vercel.app/",
   },
   {
     id: 2,
     image: IMG2,
     title: "Unsplash Web App ( Images finder )",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/Unsplash_clone_NEXT-JS",
+    demo: "https://unsplash-clone-next-js-q9aj.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Cimena Web App ( Movies finder )",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/Cinema_Moviefinder_Webapp_NEXT-JS",
+    demo: "https://cenema-moviefinder-webapp-next-js.vercel.app/",
   },
   {
     id: 4,
     image: IMG4,
     title: "Educatonal Website",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/Educational_Website",
+    demo: "https://learnorama-edu-praksh-dashore.netlify.app",
   },
  
   {
     id: 5,
     image: IMG5,
     title: "Home-Delivery Website",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/Home-Delivery-Website",
+    demo: "https://prakashdashore.github.io/Home-Delivery-Website/",
   },
   {
     id: 6,
     image: IMG6,
     title: "Photo Editing Web App ",
-    github: "",
-    demo: "",
+    github: "https://github.com/prakashdashore/photo-editor",
+    demo: "https://prakashdashore.github.io/photo-editor/",
   }
   
 ];
@@ -63,6 +63,7 @@ const Portfolio = () => {
       duration: 800,
     });
   }, []);
+  
 
   return (
     <section id="portfolio">

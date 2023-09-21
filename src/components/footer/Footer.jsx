@@ -29,7 +29,7 @@ const Footer = () => {
 
       <div className='footer__socials'>
         <a href='https://www.linkedin.com/in/prakash-dashore' target="_blank"><BsLinkedin/></a>
-        <a href='#' target="_blank"><FaGithub/></a>
+        <a href='https://github.com/prakashdashore' target="_blank"><FaGithub/></a>
         <a href='https://instagram.com/this.name_prashhh?igshid=YzU1NGVlODEzOA==' target="_blank"><FiInstagram/></a>
 
 
