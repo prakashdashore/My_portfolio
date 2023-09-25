@@ -43,6 +43,12 @@ body{
     line-height: 1.7;
 }
 
+.desc{
+    color:  rgb(67, 67, 67);
+    font-weight: 300;
+    text-align: center;
+}
+
 /* general styles */
 .container{
     width: var(--container-width-lg);

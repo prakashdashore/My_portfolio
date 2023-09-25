@@ -44,7 +44,7 @@ const Contact = () => {
           >
             <article className="contact__option wtsp">
               <BsWhatsapp className="contact__option-icon" />
-              <h4>WhatsApp</h4>
+              <h4 style={{color:'black'}} >WhatsApp</h4>
               <small>Send a message</small>
             </article>
           </a>
